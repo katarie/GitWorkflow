@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">GitWorkflow</string>
-    <string name="title_activity_maps">Map</string>
-    <string name="google_maps">Google maps</string>
 </resources>
