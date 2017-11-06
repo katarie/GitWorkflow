@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1044601785475",
+    "firebase_url": "https://gitflow-9217b.firebaseio.com",
+    "project_id": "gitflow-9217b",
+    "storage_bucket": "gitflow-9217b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044601785475:android:993edfa3878848eb",
+        "android_client_info": {
+          "package_name": "com.example.katarie.gitworkflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044601785475-1ar51jkvrfjln9snfca1ki6et0t6hrcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.katarie.gitworkflow",
+            "certificate_hash": "31b2e70e3e87d36e34019611a9d4fa0383143b6a"
+          }
+        },
+        {
+          "client_id": "1044601785475-a1hn96c6c9h6a2c3875p731r5hrq7u6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TW6zi8q1WKrLNX7gP4gckiKVJ7NMm2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044601785475-a1hn96c6c9h6a2c3875p731r5hrq7u6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
